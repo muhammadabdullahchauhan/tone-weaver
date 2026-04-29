@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+librosa
+pydub
+praat-parselmouth
+numpy
+scipy
+soundfile
+ffmpeg-python
+python-dotenv
+SpeechRecognition
+edge-tts
